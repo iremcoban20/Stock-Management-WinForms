@@ -1,0 +1,16 @@
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\bin\Debug\StokYönetimTakip2.exe.config
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\bin\Debug\StokYönetimTakip2.exe
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\bin\Debug\StokYönetimTakip2.pdb
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\bin\Debug\EntityFramework.dll
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\bin\Debug\EntityFramework.xml
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokYönetimTakip2.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokYönetimTakip2.Form1.resources
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokYönetimTakip2.Form_ProductUser.resources
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokYönetimTakip2.Properties.Resources.resources
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokYönetimTakip2.csproj.GenerateResource.cache
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokYönetimTakip2.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokY_ne.37EE9B82.Up2Date
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokYönetimTakip2.exe
+C:\Users\irem\source\repos\StokYönetimTakip2\StokYönetimTakip2\obj\Debug\StokYönetimTakip2.pdb
