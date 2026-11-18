@@ -37,4 +37,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyebili
 
 1. Projeyi bilgisayarınıza klonlayın veya indirin:
    ```bash
-   git clone [https://github.com/iremcoban20/Stock-Management-WinForms.git](https://github.com/iremcoban20/Stock-Management-WinForms.git)
+   git clone https://github.com/iremcoban20/Stock-Management-WinForms.git
